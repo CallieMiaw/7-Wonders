@@ -1,0 +1,40 @@
+East Trading Post,market,0,free,nothing
+West Trading Post,market,0,free,nothing
+Marketplace,market,0,free,nothing
+Baths,civilian,3 victoryPoints,stone,nothing
+Altar,civilian,2 victoryPoints,free,nothing
+Theater,civilian,2 victoryPoints,free,nothing
+Apothecary,scientific,math,clothe,nothing
+Workshop,scientific,science,glass,nothing
+Scriptorium,scientific,literature,papyrus,nothing
+Loom,artisan,clothe,free,nothing
+Glassworks,artisan,glass,free,nothing
+Press,artisan,papyrus,free,nothing
+Stockade,military,1 military,wood,nothing
+Barracks,military,1 military,ore,nothing
+Guard Tower,1 military,clay,nothing
+Lumber Yard,resource,wood,free,nothing
+Stone Pit,resource,stone,free,nothing
+Clay Pool,resource,clay,free,nothing
+Ore Vein,resource,1 ore,free,nothing
+Clay Pit,resource,clay,ore,1,nothing
+Timber Yard,resource,stone,wood,1,nothing
+
+Forum,market,0,free,nothing
+Carvavansery,market,0,free,nothing
+Vineyard,market,free,nothing
+Aqueduct,civilian,5 victoryPoints,stone/stone/stone,nothing
+Temple,civilian,3 victoryPoints,wood/clay/glass,nothing
+Statue,civilian,4 victoryPoints,ore/ore/wood,nothing
+Courthouse,civilian,4 victoryPoints,clay/clay/clothe,nothing
+Dispensary,scientific,math,ore/ore/glass,nothing
+Laboratory,scientific,science,clay/clay/papyrus,nothing
+Library,scientific,literature,stone/stone/clothe,nothing
+School,scientific,literature,wood/papyrus,nothing
+Loom,artisan,clothe,free,nothing
+Glassworks,artisan,glass,free,nothing
+Press,artisan,papyrus,free,nothing
+Walls,military,2 military,stone/stone/stone,nothing
+Stables,military,2 military,ore/clay/wood,nothing
+Archery Range,military,2 military,wood/wood/ore,nothing
+Sawmill,resource,wood,2 wood,1,nothing

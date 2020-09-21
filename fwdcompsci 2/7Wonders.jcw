@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>7Wonders</label>
+		<id>64</id>
+		<version>0</version>
+	</settings>
+	<users>
+		<user>
+			<path>7Wonders.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>7Wonders.jcp</path>
+		</project>
+	</projects>
+</workspace>
